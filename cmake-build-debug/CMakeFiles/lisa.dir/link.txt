@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/lisa.dir/main.c.o -o lisa 
