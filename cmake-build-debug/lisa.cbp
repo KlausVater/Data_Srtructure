@@ -76,7 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/klaus/lisa/main.c">
+		<Unit filename="/home/klaus/lisa/main.cpp">
 			<Option target="lisa"/>
 		</Unit>
 		<Unit filename="/home/klaus/lisa/CMakeLists.txt">

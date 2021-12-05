@@ -81,12 +81,12 @@ clean: CMakeFiles/lisa.dir/clean
 CMakeFiles/lisa.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lisa.dir/build.make CMakeFiles/lisa.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lisa.dir/build.make CMakeFiles/lisa.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/klaus/lisa/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target lisa"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/klaus/lisa/cmake-build-debug/CMakeFiles --progress-num= "Built target lisa"
 .PHONY : CMakeFiles/lisa.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lisa.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/klaus/lisa/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/klaus/lisa/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/lisa.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/klaus/lisa/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/lisa.dir/rule
